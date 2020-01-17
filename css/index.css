@@ -231,11 +231,21 @@ footer nav a {
 
 /*A B O U T*/
 
+/* container */
 .container .about-page {
 	
 }
-
-.top-content .about-page {
-	
+/* top content */
+.about-page .top-content {
+	width: 100%;
+	background-color: aqua;
+}
+/* middle content */
+.about-page .middle-content {
+	background-color: pink;
+}
+/* bottom content */
+.about-page .bottom-content {
+	background-color: aquamarine;
 }
 
